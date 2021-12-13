@@ -23,7 +23,7 @@ Just clone the repository using the following command:
 ```
     $ git clone https://github.com/micmarolla/HIV_model_control
 ```
-and open the file `code/main.m`.
+and open the file `code/main.m`. Since the code is organized in different subdirectories, remember to add them to the path using the command *Add to Path -> Selected Folders and Subfolders*.
 
 
 ## Execute the code

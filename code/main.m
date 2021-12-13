@@ -50,7 +50,7 @@ noise_b = -50e-7;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 
 % Draw the phase portrait of the system
-phase_port
+%phase_port
 %
 % Simulation for negative alpha (the immunitary response beat the virus)
 %sim_a_neg
